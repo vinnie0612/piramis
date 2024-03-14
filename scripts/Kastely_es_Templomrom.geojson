@@ -1,0 +1,75 @@
+{
+	"type": "FeatureCollection",
+	"name": "Kastély és Templomrom",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Somodorpusztai Római Katolikus templomrom",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.7325448, 42.4111496] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Pusztatorony",
+				"description": "<img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/pc7cfo0jbel8q6hufdaj9772tk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr95YQkR1jfYVgBbz6Brqi-py5c0P1KiXAaAm5VO6CP04WCpwNP6QC-DAONjrMJT5wyPoPSfiAc_ySxly_wNG9JWk4q1K-Auz-zLCfZTAhTsdWmcZ_EG7uF1aC3PQZ4uVbWMX_TWj70DP4XzPpjl0avXRqFOPS47lmvTD2PbEsKZWTHKI3hR1RDXoPV5QdwIjmK3z0gDTPLym1tGMH62LYpAIcfCBmlAr_ohClG598rGX0?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>romos",
+				"gx_media_links": "https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/pc7cfo0jbel8q6hufdaj9772tk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr95YQkR1jfYVgBbz6Brqi-py5c0P1KiXAaAm5VO6CP04WCpwNP6QC-DAONjrMJT5wyPoPSfiAc_ySxly_wNG9JWk4q1K-Auz-zLCfZTAhTsdWmcZ_EG7uF1aC3PQZ4uVbWMX_TWj70DP4XzPpjl0avXRqFOPS47lmvTD2PbEsKZWTHKI3hR1RDXoPV5QdwIjmK3z0gDTPLym1tGMH62LYpAIcfCBmlAr_ohClG598rGX0?session=0&fife"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.6782, 46.556567] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Dabospusztai templomrom",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.510241, 46.98155] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Hertelendy-Kastélyrom",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.5085511, 46.9805819] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Taliándörögdi Szent András templomrom",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.5641513, 46.98947] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Kövesdi templomrom", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [17.8329893, 46.9237454] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "egykori Esterházy-kastély romjai",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.9176941, 47.4251798] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Vértessy kastély ",
+				"description": "Volt vértessy kastély, állapota rohamosan romlik, tetőtérben óvatosan hová lépsz, melléképületek életveszélyesek.",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.0948435, 47.4435627] }
+		}
+	]
+}

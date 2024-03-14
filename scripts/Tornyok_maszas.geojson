@@ -1,0 +1,176 @@
+{
+	"type": "FeatureCollection",
+	"name": "Tornyok, mászás",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Szegedi vasútállomás víztornya",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [20.1409741, 46.2330178] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Víztorony", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [18.1295174, 46.3662375] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "vasöntőde víztorony", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [16.5613262, 47.6882264] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Kémény", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [18.1295075, 46.366521] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Hajmáskér, Víztorony", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [18.0304978, 47.1527698] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Kaposhomoki Radarállomás",
+				"description": "<img src=\"https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/f3q0h2d3079mbriplm8igt5s44/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgooiIlXWLHB5cgcmJ3KZTr14pL61k-Qf4lVN5teyMHzBGBdnrbQJBjhV9d2sFAJPNRDhQtvqMwcDJNRxEkGGl0xYkVitVVN002xc5kUWpUkxmG5hM4mpU15ZbNF_1beKdJyOFTSO4V5dhCTGGYYjCmn75PRAp9P9k7ikqK3SgIlDQYh5Wp8YEBChdBIEkTY_Wcf0DrYC3rKS3jz0ysbz9QZRJIfNHMFM7HVDwdul0b_qz4?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>",
+				"gx_media_links": "https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/f3q0h2d3079mbriplm8igt5s44/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgooiIlXWLHB5cgcmJ3KZTr14pL61k-Qf4lVN5teyMHzBGBdnrbQJBjhV9d2sFAJPNRDhQtvqMwcDJNRxEkGGl0xYkVitVVN002xc5kUWpUkxmG5hM4mpU15ZbNF_1beKdJyOFTSO4V5dhCTGGYYjCmn75PRAp9P9k7ikqK3SgIlDQYh5Wp8YEBChdBIEkTY_Wcf0DrYC3rKS3jz0ysbz9QZRJIfNHMFM7HVDwdul0b_qz4?session=0&fife"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.9297186, 46.3460033] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Kincsem park víztorony. ",
+				"description": "Egész jó, bejutás könnyű, ott ugorj kerítést ahol a pin van. A kocsik 100% látni fognak a bejutásnál, este biztos jobb ötlet. Nincs korlát a lépcsőn, ezért ne este. ",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1374769, 47.4976206] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Angyalföldi erőmű kéménye (60m?)",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0695244, 47.543521] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "A volt Kőbányai sörgyár 2 kéménye (80 m?)",
+				"description": "A másikat másztam meg, nem nehéz. Ezt csak sötétben, utcáról könnyen látnak",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.151232395139498, 47.484422718539101] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Újpesti erőmű kéménye (146m)",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1022249, 47.5533856] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Tatabánya erőmű kémény (160m)",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.7933674, 47.4179735] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Mátraházi síugrósánc romjai",
+				"description": "Elhagyott síugrósánc. Statikailag egyre rosszabb állapotban van, óvatosan kell rajta nagyon felmászni. ",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.9951215, 47.872313] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Geodéziai mérőtorony",
+				"description": "kb 15m magas lépcső még bent van, ajtót sem lopták le",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.7044691, 46.5039876] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Geodéziai torony Somogydöröcske",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.9977573, 46.570788] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Mászható kémény és kisebb elhagyatott gyár ",
+				"description": "Működő ipari park területén ",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0155634, 47.3352523] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Sertésvásárcsarnok víztorony",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.3902622, 41.7357772] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Jó kilátással egyszerű kémény mászás",
+				"description": "<img src=\"https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/q7hj0iqldssr2nme39bdl2vso8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoBprmGbLZe8ypa-g4_q1Czrxiof9B0uPvWYwOP_YZ4L_jirgem0ZvaaAZAhKY0dQQdLNavZobilzBaocs3NxTm5b0iUfs4VSqV9u_I7GvRPb7hCZjQw2hPHUQYOAMGgjy03SiiLu5l9wBvfv4bjEZ4EO93v_fUf14GOdaBKVBQZI9--A-l1HjT9Gok0cnygGgnW5DO2zZShhzsLQqmEVpIGSt98M7lL4kC_sJZ9tAjbx4?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>nincs elkerítve simán odalehet menni,<br>személyes kikapcsoló spot-om.<br> a naplemente a legszebb innen a mecsek sziluettjével!<br>ha akarsz egy nasit előtte szerezni a 2-es illetve 4-es busszal érkezve a Meszes nevű buszmegálóval szemben van egy Tom Market illetve egy Nemzeti Dohánybolt (ne cigizz!) onnan 1 perc séta.",
+				"gx_media_links": "https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/q7hj0iqldssr2nme39bdl2vso8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoBprmGbLZe8ypa-g4_q1Czrxiof9B0uPvWYwOP_YZ4L_jirgem0ZvaaAZAhKY0dQQdLNavZobilzBaocs3NxTm5b0iUfs4VSqV9u_I7GvRPb7hCZjQw2hPHUQYOAMGgjy03SiiLu5l9wBvfv4bjEZ4EO93v_fUf14GOdaBKVBQZI9--A-l1HjT9Gok0cnygGgnW5DO2zZShhzsLQqmEVpIGSt98M7lL4kC_sJZ9tAjbx4?session=0&fife"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.2559222, 36.679908] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Nem használt rádiótorony. 110m",
+				"description": "Riasztóval védett, de ha ügyes vagy be tudsz menni",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0066398, 47.3687576] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Margitai geodéziai torony",
+				"description": null,
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.3304233, 47.6446647] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Geodéziai Torony", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [22.0706394, 46.0823205] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott gyár",
+				"description": "Ipari park területén, néha vannak járőrök, de nem kifejezetten a gyárnál",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0074036, 47.3326288] }
+		}
+	]
+}

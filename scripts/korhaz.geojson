@@ -1,0 +1,66 @@
+{
+	"type": "FeatureCollection",
+	"name": "kórház",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Szanatórium📢",
+				"description": "Riasztva van, gyakran jár arra a busz, a bejutási pontok egy részét szeptemberben kijavították",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.215089, 46.09241] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Preisich Szanatórium",
+				"description": "Őrzés, riasztó semmi nincs, de ügyeljetek a hangerővel mert egy karen néni a szomszédból mindenkire zsarut hív. eléggé szétvert de az épület stabilan áll",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.9695452, 47.5109855] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "Name": "Szolnok Tüdőkórház", "description": null, "gx_media_links": null },
+			"geometry": { "type": "Point", "coordinates": [20.2047873, 47.1813082] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Dunamenti Pszichiátria",
+				"description": "Régen függő betegek kerteket gondoztak itt. Őrzésről nem tudni, belülről eléggé rossz állapotban van",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0833857, 47.625186] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Országos Pszichiátriai és Neurológiai Intézet👮‍♂️",
+				"description": "OPNI",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.9746416, 47.5317646] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Régi Észak-Pesti Kórház👮‍♂️📢",
+				"description": "<img src=\"https://doc-08-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/ucj61mfcf8deng4vudugpgmus0/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq7VwjMvedWQHVmFLzDZasIUQsjGJgZR3SavPLM5tKLRK_sQ-Qx-G6c0szfCBvLsS64-YdcXdAgNpBzf98ROH_6_FpWOBNYG0AayeCZLH0X4pPYOECFLPRjWhxI2BpiqLRbVh1C6wh30krhRL9PFa7I9LEUgpVcKuICPcFbcqqR_G6Y5mEtRl2IMZ0Dd6q9h7oazMFR3DIrJy6gN5ARYUJ2SBmjWVgmYEkJkRNhJaqski4?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Őrzött épület de ha nem mész arra amerre vannak az őrök nem kapnak el mert lassúak😂<br><br><img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/gr8n5kq69876hp305hp0pmedm8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrVpes5vKNbDrgIEfEW_YchfL1jznXo2-WXaLcxU0ZsUHwmqXmCoG5L5UinzmuwplMqITFJqd9p3Sf7lgYFWFrdESdrVRB9hW3A_CfTHml-K-ozeVKrSsDc8SeEUWvFTvC78jF-wmabHVKG8N_4snljn_1KGL5TtRl40XLyH_TN24Z_bwyL2B6lWEXkY9mb3gRWY2ot6PtbOWLOqhWFX644w9tEyTvXny-i_Szq2BfzZjc?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hbc3ajaflpnj9neacaics3udn4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr0OMeB7apLAW2VIX_0BqoZ8_jIKyCz3I9UwdQ2dZoKcDr_4PoP53lHS1QAhtHTg3z_M2FxJBBFyy9TuTQTN5ZjS1EtR6JFGZNNfWlItJyfTYFcr1u7HkfHZHzM2IICVYY8LxHSggHZpJUUThQuNjka-9WyYE4fajQFGJQGcLAmqvmo6inztpX_T2PaR0xjO_t47ncvMHTm75m067djaBhMasRjRXz_TQSK9SX8gMLsBlI?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/tus9qhi9oalofenffm0pug8tsk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq6FTKmiuPBTC90VQqXuGHCXRpYUzv6eGtCo5h5UCUr6JYcBjmDKqwoj-F1jpwAqTiJvbQ87BKWQPgwpfzl_uAMKtnK7aZKS0BU81HXwHvQ2H75-pGIQd1yq01mcv2Gc_KP6KneHzbdJ1VFG2WZA_b5IZ8jc3mgDGTMg3MXms6eYxKqvtS0I_HMzOiBCPBvrnatApcvvXrKUQj_7G47ox39EgFsM5EHkyiL7EU-yOt4iHw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/fhotjce1ohih0i3ndu67bg9gi4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrCjl51zHPV2STd9Upz6ZiMLDh_VAhORYW4D-2sVGNd8pxwceTHLXVMkNVaQhUCSoCSNriKdR6tl5Mue9uowyL3Q_afx-S-8Wl0KcnyHr2sOHtagNq8RpF78M7JRh8O6gqvJ6PiQHTB7S9P62bqOqDKK1P8_yzf_GBas_h_hnsoWRpJnGMHNjmke0UGTAuQ_oycZTkxzPFrcS1OKcrXLHijzcUGcx65o0mgyax8GbWzrhA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/avudo791cmp3skm9n9q3vmoot8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpgzzU5DJgmXrv_rAuzHA13qI6FPx8arkl_lXjVXz1LWhEDOWS3YLmGQjQixPJVnVGwhKLWkXlAURjeSOB45eCS2S0eahudmlxYaLZD1XrJVZ6OafugEVqHg-bmdEVi_Vf6mXyD6q6arWaRV1GFUhef1meaqKyIvkFSuRkQ_5tQ1Rn6gU6qH5k4Rmfyb0rujrrfUV6BdPMQxDL8Hhn_IDBImoC8c2S5QCP0TLcagp8nwXc?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/chg6s1cl5o11a6mtblniv5lrqg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqR4LruoIC8PjdPR_IksXudTTAvXXxjhxx7ff0Wl5Cd2zj0tw2VYXhksmse57TBErf6aKh3Jvsh1CpArjE5jwZUuFInwyt0asluxH10-lQQFCboM0GgqoXpxCFtxx4Ik0Y3KRrSgtR677iM_YclW94yEpD0TLtUEfSHpPKfUCCBXTKKyp3mki44j1-tunhidj3qdQ5XySBmZ5P9o4flwlHUXXS8o4uYYnRr0xWxVmaxY3o?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/qnq1h5fmf87panfpal1hr00tjc/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgo8UayP4Apt7cll_Kn6NxljQ9kpShxKHS1VM5zAOh5fcmaaHrTqpdVbm3FIy9cSbYdDM7tPRXINAlWsaa6LAD4MXo3emCC9ynRIbQDbTztMoBaqBzLdQBk8zGI3XqxczUsyBjnriOYCo8fqilneTacklf7JYU2nIrYULcCHuhTDw1qn-B1c0RVD_gGRgJhJpjmsCuIH4u4xkou8jX3BHNk8Rmq7ql-3N0RcWjEP_eqech0?session=0&fife\" height=\"200\" width=\"auto\" />",
+				"gx_media_links": "https://doc-08-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/ucj61mfcf8deng4vudugpgmus0/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq7VwjMvedWQHVmFLzDZasIUQsjGJgZR3SavPLM5tKLRK_sQ-Qx-G6c0szfCBvLsS64-YdcXdAgNpBzf98ROH_6_FpWOBNYG0AayeCZLH0X4pPYOECFLPRjWhxI2BpiqLRbVh1C6wh30krhRL9PFa7I9LEUgpVcKuICPcFbcqqR_G6Y5mEtRl2IMZ0Dd6q9h7oazMFR3DIrJy6gN5ARYUJ2SBmjWVgmYEkJkRNhJaqski4?session=0&fife https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/gr8n5kq69876hp305hp0pmedm8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrVpes5vKNbDrgIEfEW_YchfL1jznXo2-WXaLcxU0ZsUHwmqXmCoG5L5UinzmuwplMqITFJqd9p3Sf7lgYFWFrdESdrVRB9hW3A_CfTHml-K-ozeVKrSsDc8SeEUWvFTvC78jF-wmabHVKG8N_4snljn_1KGL5TtRl40XLyH_TN24Z_bwyL2B6lWEXkY9mb3gRWY2ot6PtbOWLOqhWFX644w9tEyTvXny-i_Szq2BfzZjc?session=0&fife https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hbc3ajaflpnj9neacaics3udn4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr0OMeB7apLAW2VIX_0BqoZ8_jIKyCz3I9UwdQ2dZoKcDr_4PoP53lHS1QAhtHTg3z_M2FxJBBFyy9TuTQTN5ZjS1EtR6JFGZNNfWlItJyfTYFcr1u7HkfHZHzM2IICVYY8LxHSggHZpJUUThQuNjka-9WyYE4fajQFGJQGcLAmqvmo6inztpX_T2PaR0xjO_t47ncvMHTm75m067djaBhMasRjRXz_TQSK9SX8gMLsBlI?session=0&fife https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/tus9qhi9oalofenffm0pug8tsk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq6FTKmiuPBTC90VQqXuGHCXRpYUzv6eGtCo5h5UCUr6JYcBjmDKqwoj-F1jpwAqTiJvbQ87BKWQPgwpfzl_uAMKtnK7aZKS0BU81HXwHvQ2H75-pGIQd1yq01mcv2Gc_KP6KneHzbdJ1VFG2WZA_b5IZ8jc3mgDGTMg3MXms6eYxKqvtS0I_HMzOiBCPBvrnatApcvvXrKUQj_7G47ox39EgFsM5EHkyiL7EU-yOt4iHw?session=0&fife https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/fhotjce1ohih0i3ndu67bg9gi4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrCjl51zHPV2STd9Upz6ZiMLDh_VAhORYW4D-2sVGNd8pxwceTHLXVMkNVaQhUCSoCSNriKdR6tl5Mue9uowyL3Q_afx-S-8Wl0KcnyHr2sOHtagNq8RpF78M7JRh8O6gqvJ6PiQHTB7S9P62bqOqDKK1P8_yzf_GBas_h_hnsoWRpJnGMHNjmke0UGTAuQ_oycZTkxzPFrcS1OKcrXLHijzcUGcx65o0mgyax8GbWzrhA?session=0&fife https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/avudo791cmp3skm9n9q3vmoot8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpgzzU5DJgmXrv_rAuzHA13qI6FPx8arkl_lXjVXz1LWhEDOWS3YLmGQjQixPJVnVGwhKLWkXlAURjeSOB45eCS2S0eahudmlxYaLZD1XrJVZ6OafugEVqHg-bmdEVi_Vf6mXyD6q6arWaRV1GFUhef1meaqKyIvkFSuRkQ_5tQ1Rn6gU6qH5k4Rmfyb0rujrrfUV6BdPMQxDL8Hhn_IDBImoC8c2S5QCP0TLcagp8nwXc?session=0&fife https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/chg6s1cl5o11a6mtblniv5lrqg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqR4LruoIC8PjdPR_IksXudTTAvXXxjhxx7ff0Wl5Cd2zj0tw2VYXhksmse57TBErf6aKh3Jvsh1CpArjE5jwZUuFInwyt0asluxH10-lQQFCboM0GgqoXpxCFtxx4Ik0Y3KRrSgtR677iM_YclW94yEpD0TLtUEfSHpPKfUCCBXTKKyp3mki44j1-tunhidj3qdQ5XySBmZ5P9o4flwlHUXXS8o4uYYnRr0xWxVmaxY3o?session=0&fife https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/qnq1h5fmf87panfpal1hr00tjc/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgo8UayP4Apt7cll_Kn6NxljQ9kpShxKHS1VM5zAOh5fcmaaHrTqpdVbm3FIy9cSbYdDM7tPRXINAlWsaa6LAD4MXo3emCC9ynRIbQDbTztMoBaqBzLdQBk8zGI3XqxczUsyBjnriOYCo8fqilneTacklf7JYU2nIrYULcCHuhTDw1qn-B1c0RVD_gGRgJhJpjmsCuIH4u4xkou8jX3BHNk8Rmq7ql-3N0RcWjEP_eqech0?session=0&fife"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1255342, 47.5393498] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "elhagyatott szanatórium👮‍♂️🎦",
+				"description": "Egy őr van a bejáratnál,elvileg be van kamerázva,de láttam olyan videót ahol bementek az épületbe szóval akkor gondolom belül nincsenek kamerák",
+				"gx_media_links": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.3966561, 47.6004057] }
+		}
+	]
+}

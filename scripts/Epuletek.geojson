@@ -1,0 +1,502 @@
+{
+	"type": "FeatureCollection",
+	"name": "Épületek",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Sirály hotel",
+				"description": "<img src=\"https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/k58quq8jibe60g8aminnfvri2k/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq5HC8F5DdyvfAA5pe6WSC_d02-8X_GwljgADtWAkhgEOwZOjhQG5NoYT4cBfp1E9yXacECR-AuZL4E-cTd3feWv7QfRJLzaWfwr_EaTLlkdisasnHOD3K5EIzzIa1slqH6WDoq5qN7prxeGtVAN5iYA_GnkFUiHgZglZjCBpbLTpMFAxPEWNDjVbAC8qYt1li8hh6a5vtoygGUzieNdwOi7g2qwwm2v-IE0f7Yz7MR6x0?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>romos",
+				"gx_media_links": "https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/k58quq8jibe60g8aminnfvri2k/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq5HC8F5DdyvfAA5pe6WSC_d02-8X_GwljgADtWAkhgEOwZOjhQG5NoYT4cBfp1E9yXacECR-AuZL4E-cTd3feWv7QfRJLzaWfwr_EaTLlkdisasnHOD3K5EIzzIa1slqH6WDoq5qN7prxeGtVAN5iYA_GnkFUiHgZglZjCBpbLTpMFAxPEWNDjVbAC8qYt1li8hh6a5vtoygGUzieNdwOi7g2qwwm2v-IE0f7Yz7MR6x0?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.5171208, 46.6300844] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Félbehagyott építkezés",
+				"description": "Kiállítóteremnek készűlt, tető már nincs, nem őrzik",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.2826107, 46.0918504] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Ercsi cukorgyári rakodó",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.2672595, 47.1628064] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Chinoin Raktár👮‍♂️📢🎦\n",
+				"description": "Állítólag megvették, kamerák és riasztó lett felszerelve, off a hely egyelőre, jól védett.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1062231, 47.5556555] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Borsodi Hőerőmű",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [20.6845513, 48.2346732] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "MTV volt székháza👮‍♂️(zárva:/)\n",
+				"description": "őrzött épület, bejutás az alagsorból",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.04918, 47.50384] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Bánya iroda?",
+				"description": "Valószínűleg a bányához tartozik, azóta paintballpályaként használják illetve irodai felszerelést és lomokat még lehet bent találni",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [20.3701619, 48.0495557] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Gödreszentmárton - Szily-kastély\n",
+				"description": "<img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hqkvhgmmjhvpqetsgjbss520u4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqW2iU0GczhxxCLt9bkZIgsUK-XdJyexQL8QOsEJMedJdcr_zh-p8NXe-db5SRzJWhARUBATC08Z-pol3VGGs08D3MJp2ydzMbPQ5m48tWHjSjeOasZZh5tTm3lOiH1mh0veyvSq90AKK1JNo4c6s158-NNt_0zezqJlX_CUnLF09lkK-3er-wRzCxxRB2gu3trsVF34D2mtBYjMVVr58CtFR10qLKhJdcigHGGlIyjcTA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Elhagyatott, elkezdték szétverni, villany még van a felső szinten mert pár éve elkezdték felújítani de nem lett belőle semmi. A pince nagyon tetszik nagyon klafa szórakozóhelyet lehetne csinálni",
+				"gx_media_links": "https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hqkvhgmmjhvpqetsgjbss520u4/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqW2iU0GczhxxCLt9bkZIgsUK-XdJyexQL8QOsEJMedJdcr_zh-p8NXe-db5SRzJWhARUBATC08Z-pol3VGGs08D3MJp2ydzMbPQ5m48tWHjSjeOasZZh5tTm3lOiH1mh0veyvSq90AKK1JNo4c6s158-NNt_0zezqJlX_CUnLF09lkK-3er-wRzCxxRB2gu3trsVF34D2mtBYjMVVr58CtFR10qLKhJdcigHGGlIyjcTA?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.9874871, 46.2707967] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Sajtház",
+				"description": "Őrizve nincsen. 6 hajléktalan lakik bent, belül szét van verve teljesen.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0668759, 47.5832656] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Volt Budapesti Sertésközvágóhíd",
+				"description": "valami info?",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.083689, 47.4660753] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Tungsram strand",
+				"description": "<img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/c6a5uqnmoh3pu10d4qgn4im5sg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr0mL-2kMI5MHN8UEYuh89WKpkGd6Bjy2zuUXWWIyskBE8E7c3k2lxB68k6PwEgrs5dR7F4KPktTHyq7jfqNkMKRJN3gN1ti0XAB9SxUNL_JYbaBci56hd9pmylEv9Yv_aA24aVlWfj4J7OCvjAiYkA0KZJ3fwFxtJ9VVz6KiMXVDxf3RszkeVwahFVxX_5_lN7D51z_1e3h8AH2E-F2fdkf3Be4I9TYiRL9Ot2xIZAVb8?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Csöves tanya van mellette, egyébként nem őrzi senki<br><br><img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/d2loffvb06g33veu7sk8pmrl84/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpYRvr4BvB5qNK7nTZQ-a2niPHvQqZBuGbG3veAf0AzxNEUreriTTIMpwaKMAzOr5yClGGx11MoDJyaBL76r8-T_YE8RDrB_3UR6rNlZck_Hm-Ff1mPMZHMnzgTpT57WHKu-ImDFxtz7iIvptWLDQgbCzl4pGBF3j9x3GdCzHslXpUfTjOOAGNQWP57P4I6dNZ4BoNANCbH5lgKg6TUltT73pBSsAlzlXOz-ib_fbD4Umk?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/g2hnj38ff0ocs3kof7lel1rrgo/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpubiI6xpiaq66QbNAWI4lldTdUlO4V5mJKJtNJQd78maAOQ90J8Qc8liA_2y3_QwnMKAhu2vobAmvea1cZ09ZpfLvupx8d6b3Pf8opKliMCf9guJOmB0CuBxWtHAAKvW2fmaDLKAl3nHGjzajfDQjnNgoo3zbFs2yRkKp3Ato_wDc30A6hGaqE5VSVfXTMSPZruIMZKOfrNlFnZyBsbHneOKgnW0sgHXJDq6CMUbMm6eA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/5i57cji6kcb0ai9hgtd6a5j4ek/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpBZPXd3zzxJOZJYZJZVqPhfxJOv4EbW5-KxPkj3FbmQOq1VuSVYLvqcOmmWpbwCq1MwBm6Pm_Knlc2-WI3MuFpHh6g6oh87ZTCetfCiskPrcsI9orkACncE8AX3LgruA_PSFkgYMZXy1v3YnCCiaH7-T1Vaky8ChVrW9XpqP1xUUYL0jyKyy6r7_K8X_ZGSfZaYosFehP2ml_pjH4KG0JyxwoS8SAsoWogQyxo9HT58vs?session=0&fife\" height=\"200\" width=\"auto\" />",
+				"gx_media_links": "https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/c6a5uqnmoh3pu10d4qgn4im5sg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgr0mL-2kMI5MHN8UEYuh89WKpkGd6Bjy2zuUXWWIyskBE8E7c3k2lxB68k6PwEgrs5dR7F4KPktTHyq7jfqNkMKRJN3gN1ti0XAB9SxUNL_JYbaBci56hd9pmylEv9Yv_aA24aVlWfj4J7OCvjAiYkA0KZJ3fwFxtJ9VVz6KiMXVDxf3RszkeVwahFVxX_5_lN7D51z_1e3h8AH2E-F2fdkf3Be4I9TYiRL9Ot2xIZAVb8?session=0&fife https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/d2loffvb06g33veu7sk8pmrl84/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpYRvr4BvB5qNK7nTZQ-a2niPHvQqZBuGbG3veAf0AzxNEUreriTTIMpwaKMAzOr5yClGGx11MoDJyaBL76r8-T_YE8RDrB_3UR6rNlZck_Hm-Ff1mPMZHMnzgTpT57WHKu-ImDFxtz7iIvptWLDQgbCzl4pGBF3j9x3GdCzHslXpUfTjOOAGNQWP57P4I6dNZ4BoNANCbH5lgKg6TUltT73pBSsAlzlXOz-ib_fbD4Umk?session=0&fife https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/g2hnj38ff0ocs3kof7lel1rrgo/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpubiI6xpiaq66QbNAWI4lldTdUlO4V5mJKJtNJQd78maAOQ90J8Qc8liA_2y3_QwnMKAhu2vobAmvea1cZ09ZpfLvupx8d6b3Pf8opKliMCf9guJOmB0CuBxWtHAAKvW2fmaDLKAl3nHGjzajfDQjnNgoo3zbFs2yRkKp3Ato_wDc30A6hGaqE5VSVfXTMSPZruIMZKOfrNlFnZyBsbHneOKgnW0sgHXJDq6CMUbMm6eA?session=0&fife https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/5i57cji6kcb0ai9hgtd6a5j4ek/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpBZPXd3zzxJOZJYZJZVqPhfxJOv4EbW5-KxPkj3FbmQOq1VuSVYLvqcOmmWpbwCq1MwBm6Pm_Knlc2-WI3MuFpHh6g6oh87ZTCetfCiskPrcsI9orkACncE8AX3LgruA_PSFkgYMZXy1v3YnCCiaH7-T1Vaky8ChVrW9XpqP1xUUYL0jyKyy6r7_K8X_ZGSfZaYosFehP2ml_pjH4KG0JyxwoS8SAsoWogQyxo9HT58vs?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0784708, 47.5887132] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Nyomda",
+				"description": "<img src=\"https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/9gegnhivon6pe1g63udr5kcm2c/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgo_enXC4R_UDmjcv5MsjnjIrTard8MpujezCTpp94uMDpZtBgQplDs6k011pFdQep8cnFu3RJBE2rsp8nt0vlS3Xe9CCwQUGcBjPuOO-3RrxPuPtUJbSSo8j9YHaj_0ocLFtbMCd46_sBCn0wYDsuWzuWotUdOMy5zKyEovT-94eBEA2Gwn3237v9PA92kzp5Qwxzya9dr9EoDyps0erLEdeThre7Kp6DNdWFiJK-MrqEs?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Bontás alatt és közben valaki raktárnak is használja",
+				"gx_media_links": "https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/9gegnhivon6pe1g63udr5kcm2c/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgo_enXC4R_UDmjcv5MsjnjIrTard8MpujezCTpp94uMDpZtBgQplDs6k011pFdQep8cnFu3RJBE2rsp8nt0vlS3Xe9CCwQUGcBjPuOO-3RrxPuPtUJbSSo8j9YHaj_0ocLFtbMCd46_sBCn0wYDsuWzuWotUdOMy5zKyEovT-94eBEA2Gwn3237v9PA92kzp5Qwxzya9dr9EoDyps0erLEdeThre7Kp6DNdWFiJK-MrqEs?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.7513742, 46.2806057] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "hotel",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [16.5594126, 47.6759738] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "harkai-lőtér",
+				"description": "ez most elhagyatott vagy mi?",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [16.5769766, 47.6462364] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "piaccsarnok",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [21.1608775, 47.0174103] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "csokonyavisonta béke puszta  elhagyatott Rakóczi házak",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.502183, 46.0812092] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Francia kastély",
+				"description": "Nem őrzik, a Plébánia u-ról tudtok bemászni, viszont a nagy torony padlásán van egy gigantikus nagy darázsfészek,jó kérdés hogy élnek e benne télen néztem meg a helyet szoval nem tudom.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0343088, 47.428569] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott vasúti épület",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1169049, 47.4780764] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Volt pártüdülő",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.9007752, 47.7194819] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Motocross pálya",
+				"description": "<img src=\"https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/uks3q2ep5dt1lsavahk8me2kv0/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq_HyF1PJkiVXpNah0z1oVxXivPr-L9RrJK8XhxLYU-Dgh73YSk7TAQHr3liUJwHPK9MFBZrD8gZO0ZSe5XkUAzlpcQEeK7g1TaptahFZvmW8dfp2tKtV5Nc-O_WFEDhL2Or9uAZ-KcK0kEBm_SfHd7Oli1rzQN7kb4CWbFTvUBmcm-rmjjAZJAn_FGIrN-m_lDi3Q_1WuZmzi9YA31IyyhAH2l03Re17SbnkEMZ67m26E?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>",
+				"gx_media_links": "https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/uks3q2ep5dt1lsavahk8me2kv0/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgq_HyF1PJkiVXpNah0z1oVxXivPr-L9RrJK8XhxLYU-Dgh73YSk7TAQHr3liUJwHPK9MFBZrD8gZO0ZSe5XkUAzlpcQEeK7g1TaptahFZvmW8dfp2tKtV5Nc-O_WFEDhL2Or9uAZ-KcK0kEBm_SfHd7Oli1rzQN7kb4CWbFTvUBmcm-rmjjAZJAn_FGIrN-m_lDi3Q_1WuZmzi9YA31IyyhAH2l03Re17SbnkEMZ67m26E?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.884622, 46.3171061] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Jókai bánya",
+				"description": "a bejárat beomlott de kis kaparással be lehet jutni",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.5864415, 47.0685828] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Hajmáskéri tüzérlaktanya",
+				"description": "<img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hnf636ls58uq2tgta4dsnft6ms/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoVpp1Yke6LYUrAjARZGkZHzuNKrMrPU3tYBPpoeCoHW2sWCLEXyk4wSziaTBylcOXYD_hOOQEInfWLvYMId5mc5RU1FvNJL6CWLuh_59PfTWGaMbT1-2_OBzbZxRlwUrGqdmY6S5Qe8ih5G_ZuVsG6-2QgBM2NgMjVbn8hSObH0KVmnrYpvIYofxyFXzQijxGu171cFzbGQvsJNp-JOp2pAKUOyFmnbN65cVJwHTZyl6o?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>nincs se kamera, se semmi. csak sok a cigany",
+				"gx_media_links": "https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/hnf636ls58uq2tgta4dsnft6ms/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoVpp1Yke6LYUrAjARZGkZHzuNKrMrPU3tYBPpoeCoHW2sWCLEXyk4wSziaTBylcOXYD_hOOQEInfWLvYMId5mc5RU1FvNJL6CWLuh_59PfTWGaMbT1-2_OBzbZxRlwUrGqdmY6S5Qe8ih5G_ZuVsG6-2QgBM2NgMjVbn8hSObH0KVmnrYpvIYofxyFXzQijxGu171cFzbGQvsJNp-JOp2pAKUOyFmnbN65cVJwHTZyl6o?session=0&fife",
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.0258801, 47.1484389] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott játszótér",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.646516, 46.2187975] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott autómosó",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.1446184, 46.6359757] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "befejezetlen \"szellemhaz\"",
+				"description": "amikor utoljara lattam, korbe volt keritesezve, lehetnek bent hajlektalanok",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.6822204, 46.904982] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "kollégium ",
+				"description": "első felében foci edzős cucc van de a hátso felöli oldalról be lehet menni de kell tolni pár fa lapot egy ablakon es be lehet maszni. tetőre fellmenni kívülről vezet egy lépcső onann lehet felmenni. tök fasza spot. ",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [18.262284, 46.08432] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Petőfi Akadémia",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0271664, 47.5702007] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott panzió",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.2408533, 46.7311854] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Fövényverem 21",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [16.5945994, 47.6886906] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Steiner malom",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [16.5678143, 47.6835702] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Gyermekvédelmi központ",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [8.5606732, 51.944203] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Sertéstelep+rádiótorony",
+				"description": null,
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [16.9966615, 47.0740793] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Favilla",
+				"description": "Az egész hely nem nagy, fekete penész van bőséggel.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0428101, 47.5866837] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Hotel római📢",
+				"description": "<img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/9ku6pvg2metadiga89p6imb7pc/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrsc5MghiK2I-AeY-LAtfKo2j-Ghudmk7R05R57I4sT6IENlN2JyNG0_S1xLgP2rT-XxZP8yP6wV4jnQwvtLuza1REFkDs65N-PVDwsk8EbZYZbESFUjaOvbPsGz3-my6mR-27LWFfkpD-A4FVLEU4jFi3UfI5-ytl8TUMk-Tb711jtS9YEU-VbKMRphIpNDfuHua3JMaiEyTIk8_QzZK2wsagEwSNuEcKZxbYRBZ7d7t8?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>nem őrzik, riasztó volt amíg le nem szereltem :D<br>csöves viszont lehet van, egy-két szoba szinte be volt rendezve és kibaszott büdös volt. Csao, utso kepen ott van a helye a csovesnek. Locsolocsoven kell felmaszni, mivel raccsal vannak az ablakok, ajtok biztositva.<br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/ls7ihlclas6udmdpp54naba1tg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqoeUhzazcysZPZdBnzCXgQkyHqGeVgG3UDuVq8JUAHBaH3vPeHnP6cNVIL5Mb60u8yD3q0__2qQpXXLGIAtWRhfWN51-uwlmJbG0CVdXO82znjCQ0dMvY9HYjTZFYSZAkR7kLm4oB5vZeicCdp5kObr-97AK6RVrPA7MMY3wEzKMMiw8lI0Tw3ogxbZnCjbdYREwYbapsGoeXrIf2eBJoehbTZ5Cl7JZxmCeubwZQ6gzI?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/l6i3jogk235aq0cc9flhuik5s8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpSX5Od7gnvriNVGMncVm3ocGL-4bxRmDVCJvkynlC9wBeNNYFNxaQK5Tzi3Zf-zN9rYwfxIV3wl2tB6oNELqnZyf6ZqgTGDXGC81UdoYpl7uQZz8_tDdrr0F79poEJEYCJGrvBX6tSON7G7uOrDUDKenKXdyiKdA_TLzV4U03lxhOge0I_ZZAIPM89Q5H81mq3a0KSrTJVPCk1cWEmcvqo1beS14JcVjxzisMq1_gj3kY?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/jr6vf4pun351hmj9uj4se1as5g/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpNKKYAeXLZD-d6q3BHEjK6ijwA7aJ66a0G3xvQpEWgQC-7pWZulJaB657bWw2_sqmBZcGJox0_QC_cTA7Jh-wYn-F3WC5nhawq4cqmc1HlYsn5V2i3n_uIQEj-x1urJXkIf4dPgUfu6UquTFj0D10YnnLfab6_HSEHdUvastcoHgtmRVDWNBap3bcN1SKVI1i0j5jEe0T9reGO4-afccXMQsQFU_I3JlglgpQURsy9mYs?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/rjiun4v1elhnb6q17g9qcp8sug/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoyfB45L9FTAlsby1zX4SUBdqsNSYmiSVtNqySS8G0BByVz0-74qP36sEZFda_K-OoMEw8_aBX4OxO1raeI-h9-nUlGMUGJMfNrPYF7uY9ikSw5A2ZKleQTLlKbpCO4W1oQPbQvchrOCYd_z5KEvyUWrLeUfSE8-aUO9o4nU6zUtoaDsK2wWvx5GKOs47b7YOOrVF7Nr2jX1a-RpOUs7xxEd1QOBGCoLEl65vNDvRqA0_s?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/0aelp1bm0j8entq00lt9hlkmnk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqZlrllE-ZtalPHtnMq5MtEjdr85WjwGwsEsHvHMxLODQKxdQfP7suYB8WhaQUVXqiih-PaTqg09cuLIVXxF3-vn1Qn8AUzSs0GwTPUNVwjOhKfhzf2VHZjd3JIng--1B00itL4SclzPLcr4KauXW236gEifowV7tz6ha5uqM9CPhd5mpb2_KMgXdchy8watH95vZce6k8J8y6OF_0U8jxmC-ZN3xmS32MpxSz8mqcT6j8?session=0&fife\" height=\"200\" width=\"auto\" />",
+				"gx_media_links": "https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/9ku6pvg2metadiga89p6imb7pc/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgrsc5MghiK2I-AeY-LAtfKo2j-Ghudmk7R05R57I4sT6IENlN2JyNG0_S1xLgP2rT-XxZP8yP6wV4jnQwvtLuza1REFkDs65N-PVDwsk8EbZYZbESFUjaOvbPsGz3-my6mR-27LWFfkpD-A4FVLEU4jFi3UfI5-ytl8TUMk-Tb711jtS9YEU-VbKMRphIpNDfuHua3JMaiEyTIk8_QzZK2wsagEwSNuEcKZxbYRBZ7d7t8?session=0&fife https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/ls7ihlclas6udmdpp54naba1tg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqoeUhzazcysZPZdBnzCXgQkyHqGeVgG3UDuVq8JUAHBaH3vPeHnP6cNVIL5Mb60u8yD3q0__2qQpXXLGIAtWRhfWN51-uwlmJbG0CVdXO82znjCQ0dMvY9HYjTZFYSZAkR7kLm4oB5vZeicCdp5kObr-97AK6RVrPA7MMY3wEzKMMiw8lI0Tw3ogxbZnCjbdYREwYbapsGoeXrIf2eBJoehbTZ5Cl7JZxmCeubwZQ6gzI?session=0&fife https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/l6i3jogk235aq0cc9flhuik5s8/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpSX5Od7gnvriNVGMncVm3ocGL-4bxRmDVCJvkynlC9wBeNNYFNxaQK5Tzi3Zf-zN9rYwfxIV3wl2tB6oNELqnZyf6ZqgTGDXGC81UdoYpl7uQZz8_tDdrr0F79poEJEYCJGrvBX6tSON7G7uOrDUDKenKXdyiKdA_TLzV4U03lxhOge0I_ZZAIPM89Q5H81mq3a0KSrTJVPCk1cWEmcvqo1beS14JcVjxzisMq1_gj3kY?session=0&fife https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/jr6vf4pun351hmj9uj4se1as5g/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgpNKKYAeXLZD-d6q3BHEjK6ijwA7aJ66a0G3xvQpEWgQC-7pWZulJaB657bWw2_sqmBZcGJox0_QC_cTA7Jh-wYn-F3WC5nhawq4cqmc1HlYsn5V2i3n_uIQEj-x1urJXkIf4dPgUfu6UquTFj0D10YnnLfab6_HSEHdUvastcoHgtmRVDWNBap3bcN1SKVI1i0j5jEe0T9reGO4-afccXMQsQFU_I3JlglgpQURsy9mYs?session=0&fife https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/rjiun4v1elhnb6q17g9qcp8sug/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoyfB45L9FTAlsby1zX4SUBdqsNSYmiSVtNqySS8G0BByVz0-74qP36sEZFda_K-OoMEw8_aBX4OxO1raeI-h9-nUlGMUGJMfNrPYF7uY9ikSw5A2ZKleQTLlKbpCO4W1oQPbQvchrOCYd_z5KEvyUWrLeUfSE8-aUO9o4nU6zUtoaDsK2wWvx5GKOs47b7YOOrVF7Nr2jX1a-RpOUs7xxEd1QOBGCoLEl65vNDvRqA0_s?session=0&fife https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/0aelp1bm0j8entq00lt9hlkmnk/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgqZlrllE-ZtalPHtnMq5MtEjdr85WjwGwsEsHvHMxLODQKxdQfP7suYB8WhaQUVXqiih-PaTqg09cuLIVXxF3-vn1Qn8AUzSs0GwTPUNVwjOhKfhzf2VHZjd3JIng--1B00itL4SclzPLcr4KauXW236gEifowV7tz6ha5uqM9CPhd5mpb2_KMgXdchy8watH95vZce6k8J8y6OF_0U8jxmC-ZN3xmS32MpxSz8mqcT6j8?session=0&fife",
+				"b": null,
+				"g le nem szereltem": "D"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.06575, 47.5803428] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott iskola Csepelen",
+				"description": "Őrök nincsenek, környék nyugodt.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0864456, 47.408916] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Kapuvári elhagyatott Gokart pálya.\n",
+				"description": "Állapota ismeretlek, egy labilis hajléktalan lakja a kutyájával. Bejutni csak hátul az erdő felől lehet, de a kutya nagyon figyel mindenre.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [17.0389262, 47.5962331] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott panel (volt rendőrség)",
+				"description": "Őrök nincsenek, hajléktalan viszont vannak.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0047008, 47.3346117] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott lelátó",
+				"description": "Nincs őrzés, a lelátó alatt sok szoba van de ott csak szemetek és graffitik  találhatóak.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0179041, 47.3384372] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott vonatjavító a Nyugati mellett👮‍♂️",
+				"description": "Vannak emberek és a bejutás eléggé nehézkes,de a tetőre nagyon sok létra vezet és fel lehet mászni.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0621665, 47.5124732] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Régi szovjet tisztek háza👮‍♂️",
+				"description": "Van 2 or de ha nem vagytok hangosak akkor nem jonnek be ",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1111389, 47.5014297] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "F4-bunker lejárat (BEFALAZVA 2024.02.28)👮‍♂️",
+				"description": "BEFALAZVA 2024.02.28! Vasárnap szokták ellenőrizni. A lenti két vasajtót hol kinyitják, hol becsukják. Ha lent voltál a vasajtókat hajtsd be, nehogy újra lezárják!",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0473398, 47.5029169] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Hús Gyár\n",
+				"description": "Hátul kék ajtón be tudsz mászni, de ha sokáig állsz ott (3 percnél tovább) elkezdenek nézni az ott élők, és ha meglátják hogy bemész rendőrt hívnak, de amúgy nincsen biztonsági őr, de van hajléktalan a pincében",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.1100308, 47.5634761] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Vidámpark👮‍♂️📢🎦",
+				"description": "A (volt) bejáratnál riasztós kamera, valamint őrbódé.",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0863707, 47.5197803] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Lido hotel\n",
+				"description": "kivulrol van a harmadik emeleten egy nyitott ajto, ott lehet bemenni, kamera nincs, viszont a foldszinten lepcsovel szemben van egy nagyon hangos riaszto szemmagassagban, nem nagyon lehet kikerulni",
+				"gx_media_links": null,
+				"b": null,
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [19.0632682, 47.5727735] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Elhagyatott Xanta Varrógépgyár Jászapátin",
+				"description": "<img src=\"https://doc-10-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/f2462pfr2se962bpp9tnrbqgfg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoLhraieNUkLrSKyDC_eJDM8NTyyLXJHYGmfp1wm-AP7lp6u95G80nf931d6Ktmrl25aBD5f6JV2bv9Q04OCNQ7xh_U1rWzfyBVBN2VopeBGRzP6TMFC_K35wwxl3KNAGIgTmOK6dVdKMYDz0gSa9kUqL_pfGEjNDC9whXP7Ad_h6f-GVeOT8nnhXiKbUT7WYQ2sSoBOq5huqlH8uvmps8XVP-aNpEKZItMvj9KiSelR28?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Lassan 10 éve üresen áll, még a mai napig kiválló állapotban áll. Megközelíteni az Általános iskola mögött a sikátor felől. Bejutni a téglafalnál a sikátor közepén vagy a pala kerítés felől lehet bejutni a sikátor végén. A szomszédos háznál a pala mellett kamera áll. 2014 óta üresen áll, becsődölt azóta is romosodik, felújítást igérgettek de semmi sem valósult meg. Mozgásérzékelő lámpa és néhány kamera van a Xanta udvarán belül. Ha szereted a hatalmas helyeket, akkor érdemes ide ellátogatnod. Van gyári kémény is, kíváló drónozáshoz.<br>Egyéb: Buszpályaudvar 10 percre, rendőrség 3 percre a földes utca végén.<br>Kamerák még működőképesek lehetnek, szóval óvatosan közelítsétek meg a helyszínt! ",
+				"gx_media_links": "https://doc-10-8s-mymaps.googleusercontent.com/untrusted/hostedimage/m/e1san0mhs6gj6gsgpg44a7hm38/f2462pfr2se962bpp9tnrbqgfg/1710158830250/D9Ddpihfl_YyebOSvnPzCj_DlTPTSaIU/06335711976431427837/5AHUGKgoLhraieNUkLrSKyDC_eJDM8NTyyLXJHYGmfp1wm-AP7lp6u95G80nf931d6Ktmrl25aBD5f6JV2bv9Q04OCNQ7xh_U1rWzfyBVBN2VopeBGRzP6TMFC_K35wwxl3KNAGIgTmOK6dVdKMYDz0gSa9kUqL_pfGEjNDC9whXP7Ad_h6f-GVeOT8nnhXiKbUT7WYQ2sSoBOq5huqlH8uvmps8XVP-aNpEKZItMvj9KiSelR28?session=0&fife",
+				"b": "Buszpályaudvar 10 percre, rendőrség 3 percre a földes utca végén.",
+				"g le nem szereltem": null
+			},
+			"geometry": { "type": "Point", "coordinates": [20.1417852, 47.515165] }
+		}
+	]
+}
