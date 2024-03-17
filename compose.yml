@@ -1,0 +1,17 @@
+include:
+  - pocketbase/compose.yml
+services:
+  urbexer:
+    image: urbexer-node
+    build:
+      context: .
+      dockerfile: Dockerfile
+    user: "node"
+    environment:
+      - NODE_ENV=production
+      - TZ=Europe/Budapest
+    env_file:
+      - .env
+    restart: unless-stopped
+    ports:
+      - 8091:3000
