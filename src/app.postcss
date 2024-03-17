@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#map-marker > :not(:first-child) {
+	visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s linear;
+}
+
+#map-marker:hover > :not(:first-child) {
+    visibility: visible;
+    opacity: 1;
+}
